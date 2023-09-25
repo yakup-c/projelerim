@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Proje_Hastane
 {
-    public partial class FrmDoktorDetay : Form
+    public partial class FrmSekreterGiris : Form
     {
-        public FrmDoktorDetay()
+        public FrmSekreterGiris()
         {
             InitializeComponent();
         }

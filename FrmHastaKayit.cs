@@ -8,11 +8,16 @@ using System.Windows.Forms;
 
 namespace Proje_Hastane
 {
-    public partial class FrmDoktorDetay : Form
+    public partial class FrmHastaKayit : Form
     {
-        public FrmDoktorDetay()
+        public FrmHastaKayit()
         {
             InitializeComponent();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
